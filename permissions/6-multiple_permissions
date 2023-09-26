@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode ug+x hello
+unmask 027 hello
